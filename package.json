@@ -1,0 +1,15 @@
+{
+  "name": "bravify",
+  "version": "2.0.0-alpha.0",
+  "main": "main.js",
+  "repository": "git@github.com:Bravify/Bravify-2.0.git",
+  "author": "Austin Peterson <austin@akpwebdesign.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
